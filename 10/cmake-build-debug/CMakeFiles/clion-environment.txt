@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@G:\Work\CLion 2021.1.3\compiler\mingw64
+Options: 
+
+Options:

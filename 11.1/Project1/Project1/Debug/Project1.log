@@ -1,0 +1,8 @@
+﻿  main.cpp
+G:\Work\Proga\Labs\11.1\Project1\Project1\main.cpp(6,14): warning C4091: : пропускается слева от "NAME::Architect", когда ни одна переменная не объявлена
+G:\Work\Proga\Labs\11.1\Project1\Project1\main.cpp(7,23): warning C4091: : пропускается слева от "NAME::ArchitectualObject", когда ни одна переменная не объявлена
+G:\Work\Proga\Labs\11.1\Project1\Project1\main.cpp(8,15): warning C4091: : пропускается слева от "NAME::Coordinate", когда ни одна переменная не объявлена
+G:\Work\Proga\Labs\11.1\Project1\Project1\main.cpp(9,9): warning C4091: : пропускается слева от "NAME::Flat", когда ни одна переменная не объявлена
+G:\Work\Proga\Labs\11.1\Project1\Project1\main.cpp(10,10): warning C4091: : пропускается слева от "NAME::Floor", когда ни одна переменная не объявлена
+G:\Work\Proga\Labs\11.1\Project1\Project1\main.cpp(11,10): warning C4091: : пропускается слева от "NAME::House", когда ни одна переменная не объявлена
+  Project1.vcxproj -> G:\Work\Proga\Labs\11.1\Project1\Debug\Project1.exe

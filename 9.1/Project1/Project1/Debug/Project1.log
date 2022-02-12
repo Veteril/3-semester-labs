@@ -1,0 +1,15 @@
+﻿  Source.cpp
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(34,17): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(43,17): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(80,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(101,11): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(115,11): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(129,11): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(143,11): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(191,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(260,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(318,10): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(346,10): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(375,10): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+G:\Work\Proga\Labs\9.1\Project1\Project1\Source.cpp(435,10): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Project1.vcxproj -> G:\Work\Proga\Labs\9.1\Project1\Debug\Project1.exe

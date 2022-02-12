@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Work/Proga/Labs/lab_12/BracketsCheck.cpp
+BracketsCheck.h
+G:/Work/Proga/Labs/lab_12/BracketsCheck.h
+
+G:/Work/Proga/Labs/lab_12/BracketsCheck.h
+iostream
+-
+string
+-
+stack
+-
+fstream
+-
+vector
+-
+
+G:/Work/Proga/Labs/lab_12/main.cpp
+iostream
+-
+BracketsCheck.h
+G:/Work/Proga/Labs/lab_12/BracketsCheck.h
+
